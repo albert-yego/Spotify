@@ -1,0 +1,76 @@
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+}
+@media (min-width: 768px) {
+ .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+ }
+}
+.fa_custom {
+  color: #1ED761;
+}
+.navbar{
+  height: 80px;
+}
+.namelogo{
+  font-size: 24px;
+  position: relative;
+  top: 10px;
+  left: 6px;
+  font-family: 'CircularStdBook', Arial, sans-serif;
+}
+.img-responsive{
+  opacity: 0.5;
+  width: 100%;
+  height: 100%;
+}
+.img-responsive:hover{
+  opacity: 1;
+}
+.col{
+  position: relative;
+  text-align: center;
+  color: white;
+  height: 255px;
+}
+.playlist{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-family: 'CircularStdBook', Arial, sans-serif;
+  font-size: 30px;
+  text-decoration: none;
+}
+.playlist:hover{
+  color: white;
+  text-decoration: none;
+
+}
+.view{
+  text-align: center;
+  text-decoration: none;
+  border-radius: 5px;
+  color: lightslategrey;
+}
+.col-8{
+  font-family: 'CircularStdBook', Arial, sans-serif;
+  text-align: left;
+  font-size: 18px;
+}
+.rounded{
+  width: 300px;
+  height: 250px;
+}
+.albumname{
+  text-align: left;
+  font-family: 'CircularStdBook', Arial, sans-serif;
+}
+.bg-light{
+  width: 100%;
+}
